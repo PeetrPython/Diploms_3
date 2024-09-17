@@ -1,0 +1,1 @@
+Click intercepted, using JavaScript click for ('xpath', "//p[text()='Лента Заказов']")

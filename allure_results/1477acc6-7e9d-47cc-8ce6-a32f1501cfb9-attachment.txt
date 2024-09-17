@@ -1,0 +1,1 @@
+Click intercepted, using JavaScript click for ('xpath', "//div[@class='input__icon input__icon-action']")
