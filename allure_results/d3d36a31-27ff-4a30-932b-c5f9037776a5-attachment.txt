@@ -1,0 +1,1 @@
+Click intercepted, using JavaScript click for ('xpath', ".//button[contains(@class, 'Modal_modal__close')]")
